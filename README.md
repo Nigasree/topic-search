@@ -1,34 +1,32 @@
-# Topic Search – React Component (TOTLE Internship Round 1)
+# Topic Search – TOTLE Frontend Developer Intern (Round 1 Submission)
 
-This project is a simple React component that displays a list of topics and allows the user to search topics by name. It simulates TOTLE’s Catalogue Management System topic browser.
+This React project displays a list of topics and allows users to search and filter them in real-time. It is developed as part of the TOTLE Frontend Developer Intern Round 1 coding assignment.
 
 ---
 
 ## 🚀 Features
 
-- Displays list of topics (name + category)
-- Search filter (case‐insensitive)
-- Shows "No topics found" when there are no matches
-- Clean, simple UI
+- Displays a list of topics (name + category)
+- Real-time search filtering (case-insensitive)
+- Shows “No topics found” when no results match
+- Clean and simple UI
 - Fully responsive
 
 ---
 
-## 📁 Folder Structure
+## 📁 Project Structure
 
 topic-search/
- ├── src/
- │    ├── components/
- │    │     └── TopicSearch.jsx
- │    ├── TopicSearch.css
- │    ├── App.js
- │    ├── index.js
- │    └── index.css
- ├── package.json
- └── README.md
+ └── src/
+       ├── components/
+       │      └── TopicSearch.jsx
+       ├── TopicSearch.css
+       ├── App.js
+       ├── index.js
+       └── index.css
 
 ---
 
 ## 🛠️ How to Run the Project
 
-1. Clone the repository  
+1. Install dependencies  
