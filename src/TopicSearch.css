@@ -1,0 +1,41 @@
+.container {
+    max-width: 450px;
+    margin: 40px auto;
+    padding: 20px;
+    border-radius: 12px;
+    background: #f9f9f9;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.1);
+    text-align: center;
+  }
+  
+  .title {
+    margin-bottom: 15px;
+  }
+  
+  .search-box {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+  }
+  
+  .topics-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .topic-card {
+    padding: 15px;
+    background: white;
+    border-radius: 10px;
+    border: 1px solid #e1e1e1;
+    text-align: left;
+  }
+  
+  .no-topics {
+    color: red;
+    font-weight: bold;
+  }
+  
